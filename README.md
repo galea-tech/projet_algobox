@@ -110,9 +110,9 @@ git push origin main          # Envoyer sur GitHub
 
 
 
-\- \*\*Nom\*\* : \[Richet]
+\- \*\*Nom\*\* : Richet
 
-\- \*\*Formation\*\* : \[deuxieme année école d'ingénieure epf ]
+\- \*\*Formation\*\* : deuxieme année école d'ingénieure epf 
 
 \- \*\*Date\*\* : Décembre 2024
 
