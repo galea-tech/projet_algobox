@@ -11,13 +11,14 @@
         <item algoitem="montant EST_DU_TYPE NOMBRE" code="1#NOMBRE#montant"/>
     </item>
     <item algoitem="DEBUT_ALGORITHME" code="101#debutalgo">
-        <item algoitem="montant PREND_LA_VALEUR 2500" code="5#montant#2500#pasliste"/>
+        <item algoitem="montant PREND_LA_VALEUR 3000" code="5#montant#2500#pasliste"/>
         <item algoitem="TANT_QUE (montant>=110 ) FAIRE" code="15#montant>=110 ">
             <item algoitem="DEBUT_TANT_QUE" code="16#debuttantque"/>
-            <item algoitem="montant PREND_LA_VALEUR -110" code="5#montant#-110#pasliste"/>
+            <item algoitem="montant PREND_LA_VALEUR -120" code="5#montant#-110#pasliste"/>
             <item algoitem="FIN_TANT_QUE" code="17#fintantque"/>
         </item>
         <item algoitem="AFFICHER montant" code="3#montant#0#pasliste"/>
     </item>
     <item algoitem="FIN_ALGORITHME" code="102#finalgo"/>
 </Algo>
+
